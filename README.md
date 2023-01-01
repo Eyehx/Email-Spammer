@@ -22,7 +22,7 @@ Command: python3 'disk':\'download_local_or_archive_local'\EmailSpammer\eyehspam
 
 ###
 
-- After 500 E-mails, if you wanna repeat the action, execute again the code
+- After 500 E-mails, if you wanna repeat the action, execute the code again
 
 ### FAQ
 
