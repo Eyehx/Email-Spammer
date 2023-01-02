@@ -18,7 +18,7 @@ Command: python3 .\EmailSpammer\eyehspammer.py
 
 ### With Terminal
 
-Command: python3 'disk':\'download_local_or_archive_local'\EmailSpammer\eyehspammer.py
+Command: python3 YOUR_DISK:\DOWNLOAD_LOCAL_OR_ARCHIEVE_LOCAL\EmailSpammer\eyehspammer.py
 
 ###
 
